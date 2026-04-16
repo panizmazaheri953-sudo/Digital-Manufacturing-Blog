@@ -1,0 +1,19 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+/* Change link color */
+a {
+  color: #0066cc;
+}
+
+/* Change top bar color */
+.greedy-nav {
+  background: #1a365d;
+}
+
+/* Change button color */
+.btn--primary {
+  background-color: #1a365d;
+}
