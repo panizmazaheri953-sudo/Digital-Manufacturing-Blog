@@ -41,7 +41,7 @@ defaults:
       related: false
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+theme: "minima"
 
 # Plugins
 plugins:
