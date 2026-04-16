@@ -1,20 +1,49 @@
+---
+title: "Paniz Manufacturing Company"
+layout: single
+---
+
+<style>
+  body {
+    background-color: #e6f0fa;
+  }
+  .page__content {
+    background-color: #e6f0fa;
+  }
+  h1, h2, h3 {
+    color: #1a3a6b;
+  }
+</style>
+
 # Paniz Manufacturing Company
 
-## Precision Additive Manufacturing for Phones-R-Us
+## Precision Additive Manufacturing Specialist
 
-We are a specialist manufacturer producing plastic casings for modular mobile devices.
+We specialise in producing high-precision plastic casings for modular electronic devices using Industry 4.0 digital manufacturing workflows.
 
-### Project Requirements
+---
 
-- **Product:** Top and bottom phone casings
-- **Target:** 50,000 units per year
-- **Tolerance:** ±0.1mm
-- **Must fit** with existing supplier parts
+### Our Manufacturing Process
 
-### Current Status
+| Stage | Description |
+|-------|-------------|
+| **1. Design** | CAD modelling, reverse engineering from client drawings |
+| **2. Additive Manufacturing** | FDM and SLA 3D printing with controlled parameters |
+| **3. Metrology** | Precision measurement using CMM and laser scanning |
+| **4. Quality Control** | Statistical process control (Cp, Cpk analysis) |
+| **5. Assembly Validation** | FESTO CP Lab automated line testing |
+| **6. Capacity Planning** | Tecnomatix Plant Simulation for production scaling |
 
-First 3D printing trials in progress.
+---
 
-### Blog Posts
+### Current Client: Phones-R-Us
 
-*Updates will appear here*
+**Requirement:** Produce top and bottom casings for modular mobile devices
+
+**Target:** 50,000 interchangeable units per year
+
+**Timeline:** 9-week prototype delivery
+
+---
+
+*This portfolio documents our end-to-end manufacturing process*
