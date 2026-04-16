@@ -1,11 +1,9 @@
-# Welcome to your manufacturing portfolio config
-# This file controls your entire site
-
 # Site Settings
 title: "Precision Additive Manufacturing"
 description: "Specialist manufacturer of plastic casings for modular electronics | Industry 4.0 Digital Manufacturing"
-url: "https://yourusername.github.io" # CHANGE THIS to your actual URL
-repository: "panizmazaheri953-sudo/Digital-Manufacturing-Blog" # CHANGE THIS
+url: "https://panizmazaheri953-sudo.github.io"
+baseurl: "/Digital-Manufacturing-Blog"
+repository: "panizmazaheri953-sudo/Digital-Manufacturing-Blog"
 
 # Branding (appears in top bar)
 masthead_title: "Precision AM"
